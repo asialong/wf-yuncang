@@ -1,0 +1,22 @@
+{
+    "name": "asialong/wf-yuncang",
+    "description": "望峰云m仓接口",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "hanson/foundation-sdk": "^4.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "William Wang",
+            "email": "75025268@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Asia\\WfYuncang\\": "src/"
+        }
+    }
+}
